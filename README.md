@@ -1,10 +1,14 @@
 # mediaquery
 
-A new Flutter project.
+A new Flutter project. This is the source code for [this](https://youtu.be/WbIigDuzbsg) tutorial
+
+- [YouTube](https://www.youtube.com/channel/UCgzDyB6FRT2sNhh0QhB7gtQ)
+- [Instgram](https://www.instagram.com/some.one.who.codez/)
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
