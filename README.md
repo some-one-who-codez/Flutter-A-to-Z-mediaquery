@@ -1,4 +1,4 @@
-# mediaquery
+# MediaQuery
 
 A new Flutter project. This is the source code for [this](https://youtu.be/WbIigDuzbsg) tutorial
 
